@@ -93,5 +93,5 @@ if __name__ == '__main__':
                 speak("Sorry Sir I am not able to send this mail")
         elif 'exit' in query:
             exit()       
-
+# Desktop Assistent Code in Python
 
